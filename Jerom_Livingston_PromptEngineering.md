@@ -1,7 +1,7 @@
 # Prompt Engineering Portfolio
 
 Name: Jerom Livingston
-Date: May 29, 2026
+Date: 05 June 2026
 LLM Used: ChatGPT (GPT-5.5)
 
 ---
